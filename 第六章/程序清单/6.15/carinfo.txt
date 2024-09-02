@@ -1,0 +1,4 @@
+make and model: abc
+year: 2001
+was asking $45.00
+now asking $41.09
